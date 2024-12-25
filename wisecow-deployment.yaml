@@ -16,6 +16,6 @@ spec:
     spec:
       containers:
       - name: wisecow
-        image: <your-dockerhub-username>/wisecow:latest
+        image: coderiya/wisecow:latest
         ports:
         - containerPort: 4499
